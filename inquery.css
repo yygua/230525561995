@@ -5,7 +5,7 @@
 .skill-box {
 	width: 898px;
     height: 613px;
-    background-image:url(../template/template1.jpg);
+    background-image:url(./template1.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     margin: 25px auto;
@@ -101,7 +101,7 @@ img.wx-photo{
     color: #fff;
     line-height: 50px;
     text-align: center;
-    background: url(../images/btn_bg.jpg);
+    background: url(./btn_bg.jpg);
     border-radius: 5px;
     cursor: pointer;
 }
